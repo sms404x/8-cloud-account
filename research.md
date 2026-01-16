@@ -1,4 +1,4 @@
-# Part A – Free Tier Comparison Research
+# Part A — Research (Free Tier Comparison)
 
 ## What is Cloud Computing?
 Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet. Instead of owning physical hardware, users can rent resources on demand. Cloud services are scalable, cost-efficient, and accessible from anywhere. Users typically pay only for what they use. Cloud computing enables faster deployment and easier management of applications.
